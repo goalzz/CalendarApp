@@ -19,7 +19,7 @@ $(document).ready(function () {
           .addClass("col-md-1 saveBtn")
           .html('<i class="fas fa-save"></i>');
   
-           //Color-coding each timeblock based on past, present, and future 
+          
         timeBlock.attr("data-hour", hour);
         if (hour < getCurrentHour()) {
           timeBlock.addClass("past");
