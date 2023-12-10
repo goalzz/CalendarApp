@@ -29,6 +29,7 @@ header {
 .time-block {
   text-align: center;
   border-radius: 15px;
+  padding: 10px; 
 }
 
 .row {
@@ -77,6 +78,9 @@ header {
   .row {
     flex-direction: column;
     height: auto;
+    margin-right: 15%;
+    margin-left: 5%;
+    margin-bottom: 1%;
   }
 }
 
