@@ -71,4 +71,19 @@ header {
   transition: all 0.3s ease-in-out;
 }
 
+/*making it responsive in smaller screens*/
+
+@media (max-width: 767px) {
+  .row {
+    flex-direction: column;
+    height: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .saveBtn {
+    width: 100%;
+    margin-top: 10px;
+  }
+}
 
