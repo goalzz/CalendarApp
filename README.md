@@ -1,4 +1,4 @@
-# Calendar App - Work Scheduler
+# Calendar App - Work Day Scheduler
 
 This is a simple calendar application or better said a calendar daily planner that allows users to save events for each hour during business hours.
 
