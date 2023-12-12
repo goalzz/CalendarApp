@@ -1,6 +1,6 @@
-# Daily Planner App - Work Scheduler
+# Calendar App - Work Scheduler
 
-A simple calendar application that allows users to save events for each hour during business hours.
+This is a simple calendar application or better said a calendar daily planner that allows users to save events for each hour during business hours.
 
 
 ## Table of Contents
@@ -8,6 +8,7 @@ A simple calendar application that allows users to save events for each hour dur
 - [Description](#description)
 - [Features](#features)
 - [Usage](#usage)
+- [Technologies](#technologies)
 - [Dependencies](#dependencies)
 - [Screenshots](#screenshots)
 - [Deployment](#deployment)
@@ -50,6 +51,12 @@ The "Work Day Scheduler" is a web application that helps users organize and sche
 4. Refresh the page, and your saved events will persist.
 
 
+## Technologies 
+
+   - HTML
+   - CSS
+   - JavaScript
+     
 ## Dependencies
 
    - jQuery (https://jquery.com/)
@@ -57,6 +64,9 @@ The "Work Day Scheduler" is a web application that helps users organize and sche
 
 
 ## Screenshots
+
+<img width="400" alt="Local Storage logs" src="https://github.com/goalzz/CalendarApp/assets/124784722/4c4a6374-c326-4b76-bcc5-7fd32a8d5bab">
+<img width="400" alt="Screenshot of the app" src="https://github.com/goalzz/CalendarApp/assets/124784722/dd75fb32-8af2-4a4d-ab02-3b547b49194b">
 
 
 ## Deployment
